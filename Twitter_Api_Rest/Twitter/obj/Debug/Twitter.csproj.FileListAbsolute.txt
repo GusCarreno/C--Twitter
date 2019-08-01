@@ -1,0 +1,30 @@
+C:\Users\horacio.rios\Desktop\TWTIT\Twitter\bin\Debug\Twitter.exe.config
+C:\Users\horacio.rios\Desktop\TWTIT\Twitter\bin\Debug\Twitter.exe
+C:\Users\horacio.rios\Desktop\TWTIT\Twitter\bin\Debug\Twitter.pdb
+C:\Users\horacio.rios\Desktop\TWTIT\Twitter\bin\Debug\MySql.Data.dll
+C:\Users\horacio.rios\Desktop\TWTIT\Twitter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\horacio.rios\Desktop\TWTIT\Twitter\bin\Debug\MySql.Data.xml
+C:\Users\horacio.rios\Desktop\TWTIT\Twitter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\horacio.rios\Desktop\TWTIT\Twitter\obj\Debug\Twitter.exe
+C:\Users\horacio.rios\Desktop\TWTIT\Twitter\obj\Debug\Twitter.pdb
+C:\DESARROLLOS\HORACIO\TWIT FEED\TWTIT\Twitter\bin\Debug\Twitter.exe.config
+C:\DESARROLLOS\HORACIO\TWIT FEED\TWTIT\Twitter\bin\Debug\Twitter.exe
+C:\DESARROLLOS\HORACIO\TWIT FEED\TWTIT\Twitter\bin\Debug\Twitter.pdb
+C:\DESARROLLOS\HORACIO\TWIT FEED\TWTIT\Twitter\bin\Debug\Newtonsoft.Json.dll
+C:\DESARROLLOS\HORACIO\TWIT FEED\TWTIT\Twitter\bin\Debug\Newtonsoft.Json.xml
+C:\DESARROLLOS\HORACIO\TWIT FEED\TWTIT\Twitter\obj\Debug\Twitter.csprojResolveAssemblyReference.cache
+C:\DESARROLLOS\HORACIO\TWIT FEED\TWTIT\Twitter\obj\Debug\Twitter.exe
+C:\DESARROLLOS\HORACIO\TWIT FEED\TWTIT\Twitter\obj\Debug\Twitter.pdb
+C:\DESARROLLOS\HORACIO\TWIT_FEED\TWTIT\Twitter\bin\Debug\Twitter.exe.config
+C:\DESARROLLOS\HORACIO\TWIT_FEED\TWTIT\Twitter\bin\Debug\Twitter.exe
+C:\DESARROLLOS\HORACIO\TWIT_FEED\TWTIT\Twitter\bin\Debug\Twitter.pdb
+C:\DESARROLLOS\HORACIO\TWIT_FEED\TWTIT\Twitter\bin\Debug\Newtonsoft.Json.dll
+C:\DESARROLLOS\HORACIO\TWIT_FEED\TWTIT\Twitter\bin\Debug\Newtonsoft.Json.xml
+C:\DESARROLLOS\HORACIO\TWIT_FEED\TWTIT\Twitter\obj\Debug\Twitter.exe
+C:\DESARROLLOS\HORACIO\TWIT_FEED\TWTIT\Twitter\obj\Debug\Twitter.pdb
+C:\DESARROLLOS\HORACIO\TWIT_FEED\TWTIT\Twitter\obj\Debug\Twitter.csprojResolveAssemblyReference.cache
+C:\Users\horacio.rios\Desktop\TWITTER_API_REST\Twitter\bin\Debug\Twitter.exe.config
+C:\Users\horacio.rios\Desktop\TWITTER_API_REST\Twitter\bin\Debug\Twitter.exe
+C:\Users\horacio.rios\Desktop\TWITTER_API_REST\Twitter\bin\Debug\Twitter.pdb
+C:\Users\horacio.rios\Desktop\TWITTER_API_REST\Twitter\obj\Debug\Twitter.exe
+C:\Users\horacio.rios\Desktop\TWITTER_API_REST\Twitter\obj\Debug\Twitter.pdb

@@ -1,0 +1,5 @@
+screen_name=RTultimahora&user_id=961925545809281024
+screen_name=BBCBreaking&user_id=5402612
+screen_name=CNN&user_id=759251
+screen_name=FoxNews&user_id=1367531
+screen_name=CNNEE&user_id=33884545
